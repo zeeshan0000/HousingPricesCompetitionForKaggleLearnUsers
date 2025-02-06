@@ -2,13 +2,13 @@
 A project dedicated to predicting house sale prices for the Kaggle Housing Prices Competition. This notebook demonstrates a custom gradient descent approach for a linear regression model (complete with manual feature engineering, normalization, and predictions)
 
 ## Overview
-In this project, :
+In this project:
 
-### Load and explore the Ames, Iowa housing dataset (train and test CSVs).
-### Engineer features such as TotalYears (house age) and TotalYearsRemodel.
-### Implement a manual gradient descent function to optimize the parameters of a multi-feature linear regression model.
-### Predict the final house prices and prepare a submission file for Kaggle.
-### The notebook exemplifies the fundamentals of linear regression, cost functions, gradient computation, feature normalization, and model evaluation (though for brevity, we do a direct cost check rather than a formal RMSE approach).
+Load and explore the Ames, Iowa housing dataset (train and test CSVs).
+Engineer features such as TotalYears (house age) and TotalYearsRemodel.
+Implement a manual gradient descent function to optimize the parameters of a multi-feature linear regression model.
+Predict the final house prices and prepare a submission file for Kaggle.
+The notebook exemplifies the fundamentals of linear regression, cost functions, gradient computation, feature normalization, and model evaluation (though for brevity, we do a direct cost check rather than a formal RMSE approach).
 
 The notebook exemplifies the fundamentals of linear regression, cost functions, gradient computation, feature normalization, and model evaluation (though for brevity, we do a direct cost check rather than a formal RMSE approach).
 
