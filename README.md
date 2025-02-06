@@ -20,9 +20,9 @@ Submission: Generated in the notebook as submission.csv.
 These files come from the “Housing Prices Competition for Kaggle Learn Users” dataset. If you’d like to run the code, download the data from Kaggle and place them in the same directory as the notebook.
 
 # Key Observations
-Custom Implementation: We coded a gradient descent approach from scratch rather than using off-the-shelf libraries like scikit-learn. This is great for understanding how linear regression works under the hood.
+Custom Implementation: Used gradient descent approach from scratch rather than using off-the-shelf libraries like scikit-learn. This is great for understanding how linear regression works under the hood.
 
-Feature Selection: We used a subset of features (27 numeric columns). More extensive feature engineering could improve accuracy.
+Feature Selection: used a subset of features (27 numeric columns). More extensive feature engineering could improve accuracy.
 
 Performance: While this approach works, real-world competition solutions often use advanced models (XGBoost, LightGBM) or ensembles.
 
